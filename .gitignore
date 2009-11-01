@@ -1,3 +1,6 @@
+pip-log.txt
+build
+env
 *.pyc
 *.swp
 nbproject
